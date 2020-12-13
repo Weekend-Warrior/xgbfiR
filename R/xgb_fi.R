@@ -32,8 +32,8 @@
 #' @export
 
 xgb_fi <- function(model,
-                   write.loc = "D:/xgbfi",
-                   xgbfi.loc = "D:/xgbfi",
+                   write.loc = "C:/xgbfi",
+                   xgbfi.loc = "C:/xgbfi",
                    features = NULL,
                    max.interaction.depth = 3,
                    max.deepening = -1,
